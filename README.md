@@ -1,7 +1,7 @@
 Quant Foundations
 Objective
 
-Build a data-driven understanding of financial markets and develop basic trading strategy frameworks using Python.
+Build a data-driven understanding of financial markets and develop basic trading strategy frameworks using Python .
 
 Scope
 Data ingestion (bhavcopy / historical stock data)
